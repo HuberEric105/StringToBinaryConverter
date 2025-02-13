@@ -1,0 +1,20 @@
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\bin\Debug\Unit1Project.exe.config
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\bin\Debug\Unit1Project.exe
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\bin\Debug\Unit1Project.pdb
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.csproj.AssemblyReference.cache
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.Form1.resources
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.Properties.Resources.resources
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.csproj.GenerateResource.cache
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.csproj.CoreCompileInputs.cache
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.exe
+C:\Users\jenni\OneDrive\Documents\C# Program\Exercise Starts\Chapter 02\Unit1Project\Unit1Project\obj\Debug\Unit1Project.pdb
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\bin\Debug\Unit1Project.exe.config
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\bin\Debug\Unit1Project.exe
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\bin\Debug\Unit1Project.pdb
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.csproj.AssemblyReference.cache
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.Form1.resources
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.Properties.Resources.resources
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.csproj.GenerateResource.cache
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.csproj.CoreCompileInputs.cache
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.exe
+C:\Users\ehube\Source\Repos\C-Unit-1-Project\Unit1Project\obj\Debug\Unit1Project.pdb
